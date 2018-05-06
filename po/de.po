@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Christian Pauly <christian-pauly@posteo.de>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: primenumbers.christianpauly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-06 13:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Christian Pauly <christian-pauly@posteo.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:19
+msgid "Correct! 😉"
+msgstr "Richtig! 😉"
+
+#: ../qml/Main.qml:30
+msgid "Failed! 😩 Try again ..."
+msgstr "Verloren! 😩 Versuch's nochmal ..."
+
+#: ../qml/Main.qml:36
+msgid "Your score: "
+msgstr "Punktestand: "
+
+#: ../qml/Main.qml:68
+msgid "Prime numbers"
+msgstr "Primzahlen"
+
+#: ../qml/Main.qml:101
+msgid "Is this a prime number?"
+msgstr "Ist das eine Primzahl?"
+
+#: ../qml/Main.qml:110
+msgid "Your score: 0"
+msgstr "Punktestand: 0"
+
+#: ../qml/Main.qml:129
+msgid "No"
+msgstr "Nein"
+
+#: ../qml/Main.qml:145
+msgid "Yes"
+msgstr "Ja"
+
+#: primenumbers.desktop.in.h:1
+msgid "primenumbers"
+msgstr "Primzahlen"
