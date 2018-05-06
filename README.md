@@ -1,6 +1,8 @@
-# Steemit
+# Prime Numbers
 
 Simple prime numbers guess game for Ubuntu Touch
+
+Download from the Open Store: https://open-store.io/app/primenumbers.christianpauly
 
 ### How to build
 
